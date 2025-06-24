@@ -40,14 +40,14 @@ This dashboard provides a visual, data-driven tool to explore why customers chur
   Provide interactive insights around Customer churn drivers to guide business growth.
 
 - **📊 Key Visuals Walkthrough**  
-  - **KPI Cards**: Total churn count,customers,average tenure, churn rate, Charges (Total & Monthly)  
+  - **KPI Cards**: Total churn count,customers,average tenure, churn rate, Charges (Total & Monthly),Percentage wise services. 
   - **Tenure Comparision** (Bar Chart): High churn in `<1 yr` groups  
-  - **Internet Service Distribution ** (Donut Chart): Fiber users show more churn  
+  - **Internet Service Distribution** (Donut Chart): Fiber users show more churn  
   - **Security & Protection Analysis**: Compare churn counts by add-on options  
   - **Payment Method Analysis**: High churn among electronic check users  
   - **Charges Over Tenure**: Highlights long-term value before churn
-  - **Monthly And Yearly charges: Line Chart shoes charges over time period.
-  - **Filter : Slicer use for filter the visual as churn risk,contract type, tenure in months and multiple lines.
+  - **Monthly And Yearly charges**: Line Chart shoes charges over time period.
+  - **Filter** : Slicer use for filter the visual as churn risk,contract type, tenure in months and multiple lines.
 
 - **💡 Business Impact & Insights**  
   - Identify stages (onboarding, loyalty milestone) with highest churn risk  
