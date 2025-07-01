@@ -50,9 +50,10 @@ This dashboard provides a visual, data-driven tool to explore why customers chur
   - **Filter** : Slicer use for filter the visual as churn risk,contract type, tenure in months and multiple lines.
 
 - **💡 Business Impact & Insights**  
-  - Identify stages (onboarding, loyalty milestone) with highest churn risk  
+  - Identify contracts in Month to Month) with highest churn 42%.
+  - In Internet Services Fiber Optic has heighest churn with 41% 
   - Segment interventions by service type and payment method  
-  - Estimate financial impact to prioritize churn reduction investments
+  - Estimate 27 -32% financial impact on Monthly Revanue.
 
 ---
 
